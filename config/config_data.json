@@ -1,0 +1,4 @@
+{
+    "env": "dev",
+    "db_uri": "mongodb+srv://<db_user>:<db_password>@budgey.lpehv.mongodb.net/"
+}
